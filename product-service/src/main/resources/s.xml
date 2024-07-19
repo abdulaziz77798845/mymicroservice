@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<responsePricingOptionsCalculate xmlns="http://www.skytv.it/mdw/data">
+	<resultCode xmlns="http://www.skytv.it/mdw/data">0</resultCode>
+	<resultDescription xmlns="http://www.skytv.it/mdw/data">Success</resultDescription>
+	<result xmlns="http://www.skytv.it/mdw/data">
+		<data xmlns="http://www.skytv.it/mdw/data">
+
+			<deliveryType xmlns="http://www.skytv.it/mdw/data">Consegna Speciale Sabato</deliveryType>
+
+			<color xmlns="http://www.skytv.it/mdw/data">Black</color>
+
+			<creditScore xmlns="http://www.skytv.it/mdw/data">Standard</creditScore>
+
+			<installmentNumber xmlns="http://www.skytv.it/mdw/data">string</installmentNumber>
+
+			<productCode xmlns="http://www.skytv.it/mdw/data">OFF43INCH</productCode>
+
+			<oneTimeCharge xmlns="http://www.skytv.it/mdw/data">125</oneTimeCharge>
+
+			<recurringCharge xmlns="http://www.skytv.it/mdw/data">47.6</recurringCharge>
+
+			<oneChargedAmount xmlns="http://www.skytv.it/mdw/data">25</oneChargedAmount>
+
+			<recurringChargedAmount xmlns="http://www.skytv.it/mdw/data">47.6</recurringChargedAmount>
+
+			<promotion xmlns="http://www.skytv.it/mdw/data">7841</promotion>
+
+			<installedChargedRollup xmlns="http://www.skytv.it/mdw/data">596.2</installedChargedRollup>
+
+			<installmentRollup xmlns="http://www.skytv.it/mdw/data">696.2</installmentRollup>
+
+			<wallMounting xmlns="http://www.skytv.it/mdw/data">true</wallMounting>
+            
+			<size xmlns="http://www.skytv.it/mdw/data">43</size>
+		</data>
+	</result>
+</responsePricingOptionsCalculate>
